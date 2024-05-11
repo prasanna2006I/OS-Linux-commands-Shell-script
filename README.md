@@ -2,6 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
+# NAME:PRASANNA I
+# REG NO:212223220079
 
 # AIM:
 To practice Linux Commands and Shell Scripting
